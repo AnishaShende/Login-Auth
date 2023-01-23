@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+## Screenshots
+
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/214098020-97ef4ab4-f567-4da9-af73-cc9d2c1053bc.png" alt="SignUp Screen">
+<img width="30%" src="https://user-images.githubusercontent.com/91362696/214098007-28523f55-6d00-483e-b084-e5fa0f815a11.png" alt="Login Screen">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
