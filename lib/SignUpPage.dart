@@ -29,12 +29,12 @@ class _SignUpPageState extends State<SignUpPage> {
             Container(
               width: w,
               height: h * 0.32,
-              decoration: const BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage("Assets/images/signup.jpg"),
-                  fit: BoxFit.cover,
-                ),
-              ),
+              // decoration: const BoxDecoration(
+              //   image: DecorationImage(
+              //     image: AssetImage("Assets/images/signup.jpg"),
+              //     fit: BoxFit.cover,
+              //   ),
+              // ),
               child: Column(
                 children: [
                   SizedBox(

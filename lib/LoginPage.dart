@@ -27,12 +27,12 @@ class _LoginPageState extends State<LoginPage> {
             Container(
               width: w,
               height: h * 0.3,
-              decoration: const BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage("Assets/images/login.jpg"),
-                  fit: BoxFit.cover,
-                ),
-              ),
+              // decoration: const BoxDecoration(
+              //   image: DecorationImage(
+              //     image: AssetImage("Assets/images/login.jpg"),
+              //     fit: BoxFit.cover,
+              //   ),
+              // ),
             ),
             Container(
               margin: const EdgeInsets.only(left: 20, right: 20),
