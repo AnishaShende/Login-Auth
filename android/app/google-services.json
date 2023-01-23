@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806571691541",
+    "project_id": "fir-getx-app-61061",
+    "storage_bucket": "fir-getx-app-61061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806571691541:android:712f725b3744e7e070481c",
+        "android_client_info": {
+          "package_name": "com.getx.app.anisha.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806571691541-2b9flvj04blj2mglnntdg3gb05ms21ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoJafagnw5OuLz7ESc93-4l7BsbIDAaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806571691541-2b9flvj04blj2mglnntdg3gb05ms21ii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806571691541-8h8p96cdab9gu6kepi55ha04t11dbudr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getx.app.anisha.logindemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
